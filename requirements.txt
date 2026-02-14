@@ -4,3 +4,8 @@ langsmith
 python-dotenv
 langchain-groq
 langchain-tavily
+
+# for mcp project
+langchain-mcp-adapters
+mcp
+langgraph
