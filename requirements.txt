@@ -9,3 +9,6 @@ langchain-tavily
 langchain-mcp-adapters
 mcp
 langgraph
+
+# langgraphstudio
+langgraph-cli[inmem]

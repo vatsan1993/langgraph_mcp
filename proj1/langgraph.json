@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "tool_agent": "./langgraph_studio_example.py:make_tool_graph"
+    },
+    "env": "../.env"
+}
